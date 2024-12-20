@@ -7,7 +7,8 @@ This site is intended as an internal support site for the CFI web team. It's mai
 
 ## TODOs
 
-- [ ] Todo 1
+- [ ] Init Next.js
+- [ ] Implement template: https://github.com/NextAdminHQ/nextjs-admin-dashboard
 
 ## Init Config Log
 
